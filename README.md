@@ -1,6 +1,6 @@
 # README
 
-link_to https://secure-sands-13594.herokuapp.com/
+link_to https://proyectoclaseenero.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
